@@ -18,12 +18,6 @@ const Header = () => {
 
         </Row>
       </Container>
-      <Container fluid className='d-flex sec-header' >
-        <h5 >Join Us</h5>
-      
-      <span style={{color:'red', fontWeight:'550'}}>మీరు  పుట్టిన  గ్రామానికి,  జిల్లాకి,  రాష్ట్రానికి  అన్ని  విధాలుగా  అన్యాయం  జరుగుతోందని  భావిస్తున్నారా</span>
-   
-      </Container>
     </div>
   )
 }
